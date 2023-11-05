@@ -16,7 +16,7 @@
   - [Questions](#questions)
 
   ## Installation
-  To run this code, you can clone the files from the README Generator repository and open them in your code editor. Make sure that Node.js is instaled with the inquire npm package and you can intialize the README Generator prompts in the commandline  with  command `node index.js`
+  To run this code, you can clone the files from the README Generator repository and open them in your code editor. Make sure that Node.js is installed with the inquire npm package and you can intialize the README Generator prompts in the commandline  with  command `node index.js`
 
   ## Usage 
   After navigating to the index.js file within the command line and running `node index.js`, the user will be prompted with series of questions including the name of the project,  its description, installation, usage contribution and test details, preferred licensing, as well as the creators GitHub and Email
