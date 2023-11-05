@@ -19,8 +19,10 @@
   ## Usage 
   After navigating to the index.js file within the command line and running `node index.js`, the user will be prompted with series of questions including the name of the project,  its description, installation, usage contribution and test details, preferred licensing, as well as the creators GitHub and Email
 
+A video walkthrough can be found [Here](https://drive.google.com/file/d/182ydpwyUGQl3odi2mrwCEHqeyjKiBZFS/view)
+
   ## License
-    This project is licensed under the MIT License. See the [[License](LICENSE)](LICENSE) file for details.
+    This project is licensed under the MIT License.
 
   ## Contributing 
   
