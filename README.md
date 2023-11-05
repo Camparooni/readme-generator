@@ -5,6 +5,8 @@
   ## Description
   The purpose of this application is to assist creators in quickly and easily generating professional README.md files for their projects, directly from the command line.
 
+  ![readme-generator](Readme-generator.PNG)
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
