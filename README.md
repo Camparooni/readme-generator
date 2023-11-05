@@ -6,7 +6,7 @@
   The purpose of this application is to assist creators in quickly and easily generating professional README.md files for their projects, directly from the command line.
 
   ## Table of Contents
-  - [Installaion](#installation)
+  - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
