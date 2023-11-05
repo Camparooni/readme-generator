@@ -1,9 +1,9 @@
-# this is the title
+# this is the project
 
   [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
   ## Description
-  this is the description
+  yo yo yo yo yo
 
   ## Table of Contents
   - [Installaion](#installation)
@@ -14,20 +14,20 @@
   - [Questions](#questions)
 
   ## Installation
-  undefined
+  install it somehow somewhere
 
   ## Usage 
-  undefined
+  whenever you need it 
 
   ## License
     This project is licensed under the MIT License. See the [[License](LICENSE)](LICENSE) file for details.
 
   ## Contributing 
-  contact me or something
+  contact me weeeee
 
   ## Tests
-  run them idk
+  run them 
 
   ## Questions
-  If you have any questions, please contact [taya](https://github.com/taya) or email at taya@yahoo.com.
+  If you have any questions, please contact [camparooni](https://github.com/camparooni) on GitHub or email at tayascamp@yahoo.com.
 
